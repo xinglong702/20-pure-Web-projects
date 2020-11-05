@@ -8,13 +8,13 @@
 
 ## 20个项目如下：
 
-<img src="C:\Users\netlab\AppData\Roaming\Typora\typora-user-images\image-20201105194739177.png" alt="image-20201105194739177" style="zoom: 80%;" />
+![image-20201105194739177](https://github.com/xinglong702/20-pure-Web-projects/blob/main/image-20201105194739177.png)
 
 ---
 
 ## 完成这20个项目后预计学到的东西：
 
-![image-20201105194351068](C:\Users\netlab\AppData\Roaming\Typora\typora-user-images\image-20201105194351068.png)
+![image-20201105194351068](https://github.com/xinglong702/20-pure-Web-projects/blob/main/image-20201105194351068.png)
 
 ---
 
