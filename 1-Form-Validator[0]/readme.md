@@ -1,3 +1,7 @@
+## Form Validator
+简单的表单验证
+
+## Project Specifications
 1. 创建表单UI
 2. 在用户输入有误的情形显示错误信息
 3. checkRequired()函数检测是否每个输入框都有输入
